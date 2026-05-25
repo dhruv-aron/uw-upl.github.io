@@ -1,0 +1,13 @@
+{
+    "name": "Marko Kupresanin",
+    "isActive": true,
+    "emoji": "💀",
+    "grade": "Junior",
+    "image": "../../img/coords/marko-kupresanin.webp",
+    "study": [
+        "CS",
+        "Math"
+    ],
+    "personalLink": "https://kupresanin.dev/",
+    "github": "MarkoKupresanin"
+}
